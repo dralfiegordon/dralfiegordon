@@ -4,33 +4,23 @@ I’m **Alfie Gordon** — a scientist and marketer helping health and performan
 
 🟢 **Marketing Manager at [Hexis](https://hexis.live)** · PhD Applied Physiology · Edinburgh, UK
 
-[Portfolio](https://dralfiegordon.com) · [Watch & learn](https://dralfiegordon.com/knowledge-base) · [Newsletter](https://dralfiegordon.com/email) · [CV](https://dralfiegordon.com/cv)
+[Portfolio](https://dralfiegordon.com) · <a href="https://www.youtube.com/@dralfiegordon"><img src="assets/youtube.svg" width="19" height="14" alt=""> YouTube</a> · [Watch & learn](https://dralfiegordon.com/knowledge-base) · [Newsletter](https://dralfiegordon.com/email) · [CV](https://dralfiegordon.com/cv)
 
 ## Selected work
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://dralfiegordon.com/knowledge-base/hexis-pat-creator-partnership"><img src="https://dralfiegordon.com/case-studies/hexis-pat/creator-partner-blue-640.webp" width="420" alt="From first DM to creator partner — Hexis case study"></a>
-<br><strong>Turn creator outreach into affiliate partnerships</strong>
-<br>Outreach, onboarding and product education.
+<td width="25%" valign="top">
+<a href="https://dralfiegordon.com/knowledge-base/hexis-pat-creator-partnership"><img src="assets/creator-partnerships.jpg" width="210" alt="Creator partnerships with platform logo ribbon"><br><strong>Creator partnerships</strong></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://dralfiegordon.com/knowledge-base/how-i-built-pninsider"><img src="https://dralfiegordon.com/case-studies/pninsider/building-pninsider-blue-640.webp" width="420" alt="Building PN—INSIDER — a specialist newsletter"></a>
-<br><strong>Build an owned audience</strong>
-<br>The publication, signup journey and lessons from 100 issues.
+<td width="25%" valign="top">
+<a href="https://dralfiegordon.com/knowledge-base/how-i-built-pninsider"><img src="assets/pninsider.jpg" width="210" alt="Build an owned audience with platform logo ribbon"><br><strong>Build an owned audience</strong></a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://dralfiegordon.com/knowledge-base/i-built-a-performance-nutrition-research"><img src="https://dralfiegordon.com/case-studies/evidence-organised-blue-640.webp" width="420" alt="Evidence, organised — AI research monitoring"></a>
-<br><strong>Keep your marketing informed with AI</strong>
-<br>A research monitoring workflow with wider marketing applications.
+<td width="25%" valign="top">
+<a href="https://dralfiegordon.com/knowledge-base/i-built-a-performance-nutrition-research"><img src="assets/ai-monitoring.jpg" width="210" alt="AI market monitoring with platform logo ribbon"><br><strong>AI market monitoring</strong></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://dralfiegordon.com/knowledge-base/i-built-an-animated-presentation"><img src="https://dralfiegordon.com/case-studies/presentation-blue-640.webp" width="420" alt="Beyond static slides — interactive product education"></a>
-<br><strong>Help customers understand your product</strong>
-<br>Interactive presentations that make the details easier to explore.
+<td width="25%" valign="top">
+<a href="https://dralfiegordon.com/knowledge-base/i-built-an-animated-presentation"><img src="assets/interactive-presentations.jpg" width="210" alt="Product education with platform logo ribbon"><br><strong>Product education</strong></a>
 </td>
 </tr>
 </table>
