@@ -2,7 +2,7 @@
 
 I’m **Alfie Gordon** — a scientist and marketer helping health and performance brands **build customer trust and drive growth**. I combine scientific understanding, creative execution and AI to make products easier to understand.
 
-🟢 **Marketing Manager at [Hexis](https://hexis.live)** · PhD Applied Physiology · Edinburgh, UK
+🟢 <strong>Marketing Manager at</strong> <a href="https://hexis.live"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hexis-light.svg"><img src="assets/hexis-dark.svg" width="69" height="20" alt="Hexis" align="absmiddle"></picture></a> · PhD Applied Physiology · Edinburgh, UK
 
 [Portfolio](https://dralfiegordon.com) · <a href="https://www.youtube.com/@dralfiegordon"><img src="assets/youtube.svg" width="19" height="14" alt=""> YouTube</a> · [Watch & learn](https://dralfiegordon.com/knowledge-base) · [Newsletter](https://dralfiegordon.com/email) · [CV](https://dralfiegordon.com/cv)
 
