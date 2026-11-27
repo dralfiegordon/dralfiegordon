@@ -38,7 +38,7 @@ I’m **Alfie Gordon** — a scientist and marketer helping health and performan
 ## Tools to take away
 
 - **[Creator Asset Variants](https://github.com/dralfiegordon/creator-asset-variants)** — batch-personalise social graphics with creator names, discount codes and campaign copy.
-- **[`/pubmed-search-builder`](https://dralfiegordon.com/claude-skills)** — a downloadable Claude skill for scoping and refining literature searches.
+- **[`/pubmed-search-builder`](https://github.com/dralfiegordon/pubmed-search-builder)** — a downloadable Claude skill for scoping and refining literature searches.
 
 ---
 
